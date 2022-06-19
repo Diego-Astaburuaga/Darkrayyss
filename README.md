@@ -1,11 +1,12 @@
 # 👋 Hi, I’m Diego Astaburuaga (@Darkrayyss) 
-- 👋 At my second year in mathematical civil engineering in USM
+- 👋 At my third year in mathematical civil engineering in USM
 - Work smarter not harder
 - 👀 I’m interested in learn new things
+## I already know who to use
+- Python
 ## 🌱 I’m currently learning new languajes and tools !
-- ✨Python
 - ✨Excel
-- ✨R
+- ✨JavaScript
 
 <!---
 Darkrayyss/Darkrayyss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Diego Astaburuaga (@Darkrayyss) 
 - 👋 At my third year in mathematical civil engineering in USM
 - 🤯 Work smarter not harder
-- 👀 I’m interested in learn new things
+- 👀 I’m interested in learning new things
 # 😎 I already know who to use
 - Python
 # 🌱 I’m currently learning new languajes and tools !

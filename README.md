@@ -2,11 +2,11 @@
 - 👋 At my third year in mathematical civil engineering in USM
 - 🤯 Work smarter not harder
 - 👀 I’m interested in learning new things
-# 😎 I already know who to use
+# 😎 I already know how to use
 - Python
-# 🌱 I’m currently learning new languajes and tools !
+# 🌱 I’m currently learning new languages and tools !
 - ✨Excel
-- ✨JavaScript
+- ✨JavaScript-CSS-HTML
 # Other social media
 - 😅 Instagram: @diego.astcorv
 <!---

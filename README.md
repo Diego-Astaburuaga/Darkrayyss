@@ -4,6 +4,8 @@
 - 👀 I’m interested in learning new things
 # 😎 I already know how to use
 - Python
+- C
+- HTML
 # 🌱 I’m currently learning new languages and tools !
 - ✨Excel
 - ✨JavaScript-CSS-HTML

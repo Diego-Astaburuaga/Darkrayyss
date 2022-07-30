@@ -7,7 +7,7 @@
 - C
 - HTML
 # 🌱 I’m currently learning new languages and tools !
-- ✨Excel
+- ✨Visual Basic (Excel)
 - ✨JavaScript-CSS-HTML
 # Other social media
 - 😅 Instagram: @diego.astcorv

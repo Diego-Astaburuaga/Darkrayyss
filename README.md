@@ -5,7 +5,8 @@
 # 😎 I already know how to use
 - Python
 - C
-- HTML
+- R
+- HTML/CSS
 # 🌱 I’m currently learning new languages and tools !
 - ✨Visual Basic (Excel)
 - ✨JavaScript-CSS-HTML

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working increase my math and tech habilities.<br>👋 At my four year in mathematical civil engineering in USM.<br>🌱 I’m interested in machine learning and data visualization.<br>💬 New idea, new challenge: new project.<br>🤯 Work smarter not harder.<br>👀 I’m always interested in learning new things.
+🔭 I’m currently working increase my math and tech habilities.<br>👋 At my four year in mathematical civil engineering in USM.<br>🌱 I’m interested in machine learning and data science, focus in math areas like optimization and stadistics.<br>💬 New idea, new challenge: new project.<br>🤯 Work smarter not harder.<br>👀 I’m always interested in learning new things.
 
 
 ## 🌐 Socials:
